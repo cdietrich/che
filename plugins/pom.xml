@@ -54,5 +54,6 @@
         <module>plugin-languageserver</module>
         <module>plugin-json</module>
         <module>plugin-zend-debugger</module>
+        <module>plugin-mydsl</module>
     </modules>
 </project>
