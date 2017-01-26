@@ -196,6 +196,11 @@
             <groupId>org.eclipse.che.plugin</groupId>
             <artifactId>che-plugin-maven-server</artifactId>
         </dependency>
+        <!-- this is the new entry -->
+        <dependency>
+            <groupId>org.eclipse.che.plugin</groupId>
+            <artifactId>che-plugin-mydsl-lang-server</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.eclipse.che.plugin</groupId>
             <artifactId>che-plugin-nodejs-debugger-server</artifactId>

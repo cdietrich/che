@@ -46,6 +46,8 @@
         <module>plugin-svn</module>
         <module>plugin-cpp</module>
         <module>plugin-csharp</module>
+        <!-- this line is the new entry -->
+        <module>plugin-mydsl</module>
         <module>plugin-nodejs</module>
         <module>plugin-nodejs-debugger</module>
         <module>plugin-php</module>

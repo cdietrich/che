@@ -677,6 +677,12 @@
                 <artifactId>che-plugin-maven-shared</artifactId>
                 <version>${che.version}</version>
             </dependency>
+            <!-- this is the new Entry -->
+            <dependency>
+                <groupId>org.eclipse.che.plugin</groupId>
+                <artifactId>che-plugin-mydsl-lang-server</artifactId>
+                <version>${che.version}</version>
+            </dependency>
             <dependency>
                 <groupId>org.eclipse.che.plugin</groupId>
                 <artifactId>che-plugin-nodejs-debugger-ide</artifactId>
