@@ -55,5 +55,6 @@
         <module>plugin-json</module>
         <module>plugin-composer</module>
         <module>plugin-zend-debugger</module>
+        <module>plugin-mydsl</module>
     </modules>
 </project>
